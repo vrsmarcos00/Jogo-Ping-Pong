@@ -6,7 +6,7 @@ HTML e inteligência do jogo feito todo em JAVASCRIPT.
 
 
 
-<img src="/imagens/ sem-titulo.png"
+<img src="/imagens/Sem título.png">
 
 
 
